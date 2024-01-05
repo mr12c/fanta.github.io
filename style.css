@@ -257,10 +257,7 @@ svg{
 .card1 {
   background-color: rgb(83, 174, 83);
 }
-.sprite {
-  /* transition:all cubic-bezier(0.19, 1, 0.22, 1) 0.5s; */
-  
-}
+ 
 .card1 img:nth-child(1){
   top:-4%;
   width:46rem;
